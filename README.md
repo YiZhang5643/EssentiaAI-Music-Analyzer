@@ -35,7 +35,7 @@ This tool provides comprehensive music analysis using pre-trained deep learning 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/EssentiaAI-Music-Analyzer.git
+git clone https://github.com/YiZhang5643/EssentiaAI-Music-Analyzer.git
 cd EssentiaAI-Music-Analyzer
 ```
 
