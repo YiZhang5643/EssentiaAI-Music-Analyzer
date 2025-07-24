@@ -175,7 +175,7 @@ The tool uses state-of-the-art pre-trained models from Essentia:
 - **OS**: Ubuntu 18.04+ (Linux recommended)
 - **Python**: 3.9 or higher
 - **Memory**: 4GB+ RAM recommended
-- **Storage**: 500MB+ free space (including models)
+- **Storage**: 100MB+ free space (including models)
 - **CPU**: Multi-core processor recommended for faster analysis
 
 ## 🐛 Troubleshooting
