@@ -165,7 +165,7 @@ The tool uses state-of-the-art pre-trained models from Essentia:
 ## 🔧 Technical Requirements
 
 ### Core Dependencies
-- `essentia-tensorflow>=2.1b6.dev1110` - Main audio analysis library
+- `essentia-tensorflow>=2.1b5` - Main audio analysis library
 - `tensorflow>=2.19.0` - Deep learning framework
 - `numpy>=1.26.4` - Numerical computing
 - `scipy>=1.13.1` - Scientific computing
