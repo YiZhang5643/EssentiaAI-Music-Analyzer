@@ -1,0 +1,29 @@
+# Core audio analysis dependencies
+essentia-tensorflow>=2.1b5
+tensorflow>=2.19.0
+
+# Scientific computing and array processing
+numpy>=1.26.4
+scipy>=1.13.1
+
+# Audio processing utilities
+librosa>=0.11.0
+soundfile>=0.13.1
+audioread>=3.0.1
+
+# Data processing and utilities
+scikit-learn>=1.6.1
+joblib>=1.5.1
+
+# HTTP requests for model downloading
+requests>=2.32.4
+urllib3>=2.5.0
+
+# Progress display and user interface
+rich>=14.0.0
+
+# Additional scientific computing
+numba>=0.60.0
+
+# Optional: For extended audio format support
+# ffmpeg-python  # Uncomment if you need additional audio format support
